@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/thompsoncarlos.github.io/react-githubwiki-desafio02-dio/static/js/main.99b41d2a.js",
+    "static/media/github.png": "/thompsoncarlos.github.io/react-githubwiki-desafio02-dio/static/media/github.4d74fd76ac168df7723c.png",
+    "index.html": "/thompsoncarlos.github.io/react-githubwiki-desafio02-dio/index.html",
+    "main.99b41d2a.js.map": "/thompsoncarlos.github.io/react-githubwiki-desafio02-dio/static/js/main.99b41d2a.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.99b41d2a.js"
+  ]
+}
